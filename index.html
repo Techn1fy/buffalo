@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Buffalo Trust</title>
+  <style>
+    html, body, iframe {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      border: none;
+      overflow: hidden;
+    }
+    iframe {
+      display: block;
+      width: 100vw;
+      height: 100vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe id="main-frame" src="" frameborder="0"></iframe>
+  <script>
+    function chooseVersion() {
+      var isMobile = window.innerWidth <= 900;
+      var frame = document.getElementById('main-frame');
+      frame.src = isMobile
+        ? "Buffalo Trust Mobile/index.html"
+        : "Buffalo Trust Desktop/index.html";
+    }
+    chooseVersion();
+    window.addEventListener('resize', function() {
+      // Optionally reload on resize if crossing threshold
+      var frame = document.getElementById('main-frame');
+      var current = frame.src.includes('Mobile') ? 'mobile' : 'desktop';
+      var shouldBe = window.innerWidth <= 900 ? 'mobile' : 'desktop';
+      if (current !== shouldBe) chooseVersion();
+    });
+  </script>
+</body>
+</html>
