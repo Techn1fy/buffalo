@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/eac5dac862ff449ea693f56e1f71b54f/file/StyreneAWeb-Black.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/09ff5ae8491c453e97bc514259c4a7d8/file/StyreneAWeb-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: italic;
+  font-weight: 900;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/28c3f56a640c4b94aeb9795abec1fd87/file/StyreneAWeb-BlackItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/1f5651b9551d4fa390fe2fe299960fc1/file/StyreneAWeb-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/c0ff7b0eebd04e8a99092c699871a393/file/StyreneAWeb-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/1c3acacddb144560be5f470c08aba714/file/StyreneAWeb-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: italic;
+  font-weight: 300;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/feb63664b9904df8981f9e8bbe49f5e7/file/StyreneAWeb-LightItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/ebca0b3d72b94582bfd190287afb8f98/file/StyreneAWeb-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: italic;
+  font-weight: 500;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/0e855de67ddc4f3e9efe312beebe5bd4/file/StyreneAWeb-MediumItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/7a44435766874669bc2d33c23b9a9ade/file/StyreneAWeb-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/d57f40517de34343ba62e3879e1b2cda/file/StyreneAWeb-Thin.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Styrene A Web';
+  font-style: italic;
+  font-weight: 100;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/82f8c9427176413fb1d0f7e4f28795b7/file/StyreneAWeb-ThinItalic.ttf) format('truetype');
+}

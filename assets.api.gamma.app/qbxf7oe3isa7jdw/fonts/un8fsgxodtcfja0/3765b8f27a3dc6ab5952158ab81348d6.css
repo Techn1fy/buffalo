@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/7e162c94f52c475f96a016d3adccc6af/file/GothamPro.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/1752c9f443af4a5e87af7cbad776fda8/file/GothamPro-Black.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/c6901e4af66f4a529530333d88e1ffe8/file/GothamPro-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/2cbd7666808c4d5bbe2bcc00999aeede/file/GothamPro-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/3129dd4d60df4670831933b8f1edbadd/file/GothamPro-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://cdn.gamma.app/qbxf7oe3isa7jdw/eb8074f7cad7429c862b6ec9cc322ecf/file/GothamPro-Medium.ttf) format('truetype');
+}
