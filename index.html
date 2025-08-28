@@ -111,15 +111,6 @@
         try {
           document.title = iframe.contentDocument.title;
 
-          if (!isMobileDevice() && !iframe.dataset.reloaded) {
-            iframe.dataset.reloaded = "true";
-            var src = iframe.src;
-            setTimeout(function () {
-              iframe.src = src;
-            }, 100);
-            return;
-          }
-
           const iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
           const links = iframeDocument.getElementsByTagName('a');
 
